@@ -1,0 +1,13 @@
+df -A -g 
+Aggregate                total       used      avail capacity
+RP_NL2_01_a1a          13117GB     78GB     5238GB      60%
+RP_NL2_01_a1a/.snapshot    0GB        0GB        0GB       0%
+RP_NL2_01_a1b          13117GB    108GB     2274GB      83%
+RP_NL2_01_a1b/.snapshot    0GB        0GB        0GB       0%
+aggr0_a1a                368GB      350GB       17GB      95%
+aggr0_a1a/.snapshot       19GB        0GB       19GB       0%
+aggr0_a1b                368GB      350GB       17GB      95%
+aggr0_a1b/.snapshot       19GB        0GB       19GB       0%
+8 entries were displayed.
+
+NASNANOCIALLCA::> 

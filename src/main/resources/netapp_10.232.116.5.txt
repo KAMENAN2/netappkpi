@@ -1,0 +1,11 @@
+uppressed 2 times in last 67 seconds.  
+
+Sun Jul 24 13:04:06 GMT [NASNANOCIALL01:openssh.invalid.channel.req:warning]: SSH client (SSH-2.0-OpenSSH_6.6.1) from 10.232.116.59 sent unsupported channel request (10, env).  
+
+df -A -g
+Aggregate                total       used      avail capacity  
+RP_NL2_02_etc           6778GB     63GB      441GB      93%
+RP_NL2_02_etc/.snapshot        0GB        0GB        0GB     ---%  
+RP_NL2_01_etc          17881GB    169GB      921GB      95%
+RP_NL2_01_etc/.snapshot        0GB        0GB        0GB     ---%  
+NASNANOCIALL01> 

@@ -1,0 +1,5 @@
+Aggregate,total,used,avail,capacity
+RP_NL2_01_a1a,13117,78,5238,60
+RP_NL2_01_a1b,13117,108,2274,83
+aggr0_a1a,368,350,17,95
+aggr0_a1b,368,350,17,95
